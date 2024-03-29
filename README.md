@@ -1,3 +1,6 @@
+Le jeu écrit en python débute en lançant le fichier main.py avec python
+-----------------------------------------------------------------------
+
 Il y a un système de manche.
 Première manche: **15% de bombes**.
 À chaque manche, **+4% de bombes**.
