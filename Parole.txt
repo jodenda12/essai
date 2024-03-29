@@ -1,0 +1,93 @@
+Proposition : ajouter plus de ponctuation, plus de "?", " !"
+
+Parole du marchand au début des conversations :
+    Manche 3 :
+- Ah tiens quelqu'un, tu es bien vivant dis moi ?
+- Je vois tu viens donc de sortir d’un des tunnels les plus profonds de la ville-mine d’à côté après avoir entendu qu’elle allait être désaffectée.
+- Désolé, mais cela va bientôt faire trois mois que le processus est terminé, il semblerait qu’on ne t’ai pas prévenu.
+- Bon ce n'est pas important de toute façon, ça te dirait de jeter un coup d'oeil, j’ai quelques petits trucs à vendre et lorsque tu auras fini, tu pourra partir en suivant le panneau.
+
+    Manche 4 :
+- Toujours vivant, nous verrons si ça dure.
+- Tant mieux pour toi... et pour moi aussi car après tout tu es mon seul client, depuis la guerre et tout ça …
+- Passons aux choses sérieuses, que veux tu aujourd’hui ?
+
+    Manche 5 :
+- T’as entendu la nouvelle, apparemment les bombardements nucléaires sur les principales villes mondiales se sont arrêtés. Peut être que le conflit s’est calmé... ou peut être que tout le monde est mort ^^ (faut pas mettre le smiley mais ça me fait rire de le mettre mdrr) !
+- C’est pas comme si cela nous concernait ici de toute façon.
+- Qu'est-ce que ce sera pour cette fois ?
+
+    Manche 6 :
+- Tu te rappelles quand je disais que tout le monde était mort en rigolant, et bien il semblerait... que ce soit finalement vrai, je ne croise plus un rat.
+- Tu te rends compte je pourrai être le dernier humain ? ! Bon, t'es encore là mais ça ne compte pas vraiment.
+- Mais bon t'imagines bien ce n’est pas la fin du monde qui arrêtera notre petit commerce, hein ?
+
+    Plus tard :
+- Te revoilà, bonjour à toi et ton argent.
+
+
+Paroles du marchand autres :
+    Après un achat :
+- On se souvient de la qualité bien plus longtemps que du prix.
+- Un excellent choix !
+- Tu te contente de ça ?
+- Allez encore un... (mdrrr j'aime beaucoup ces paroles)
+    Après être resté longtemps sans rien faire :
+- Que ce que tu fais encore là ?
+- Bon j'ai pas que ça à faire... Enfin si, mais dépêche-toi quand même. (cette phrase aussi)
+
+    Lettre sur le marchand :
+- Pour cette dix-huitième session de notre jeu télévisé, notre joueur est un mineur, et il ne devrai pas tarder à sortir. S’il survit aux premiers jours, vous rentrerez en contacte avec lui et vous commencerez à lui donner certain élément de l’histoire que nous avons élaboré. Vous pourrez aussi, dans votre rôle de marchand, lui vendre quelque petites choses contre ce qu’il aurait put trouver. S’il meurt ramener le corps pour s’en débarrasser. De Isis responsable des équipes de terrain de Le but est de survivre.
+
+
+
+Parole du personnage :
+    N'importe quand :
+- Pom Pom Pom...
+- TOUJOURS VIVANT !
+- Il y a quelqu'un ?
+- Quand est-ce qu'on mange ? J'ai faim moi...
+- C'est encore loin ?
+
+    Quand on met un drapeau :
+- Et un de plus !
+Proposition : plutôt "Et un de plus !" -> on parlerait plutôt du drapeau que de la bombe puisque on drapote aussi les objets !
+- J'aurais pu y rester cette fois !
+- Celle-ci ne m'aura pas !
+
+    Quand il y a un drapeau bleu pour la première fois :
+- Je suis sûr qu'il y a quelque chose d'intéressant sous ce drapeau bleu...
+
+    Quand on trouve un drapeau bleu :
+- Cool, encore un objet !
+- Qu'est-ce que ce sera cette fois ?
+
+    Quand on trouve le fusil :
+- Une seule balle, un seul mort possible...
+Proposition : plutôt "Ce fusil ne contient qu'une seule balle..." pour que le fait que l'on puisse l'utiliser pour tuer quelqu'un soit moins évident :)
+
+    Quand on trouve une loupe pour la première fois :
+- Elle me sera utile pour avancer sans prendre de risque.
+
+    Quand on trouve un bouclier pour la première fois :
+- Magnifique, il pourrait bien résister à une explosion...
+
+    Quand on trouve des lunettes bioniques pour la première fois :
+- Avec ça je verrai même l'invisible !
+Proposition: changer cette phrase en.. autre chose, perso en lisant ça je me dis qu'il y a d'autres trucs, d'autres objets ou jsp, que tu peux découvrir seulement avec les lunettes bioniques
+
+    Quand on trouve une armure pour la première fois :
+- C'est au moins deux fois plus résistant qu'un bouclier !
+
+    Quand on achète une clé pour la première fois :
+- Je pourrai améliorer un autre objet avec ceci.
+
+    Quand on meurt :
+- Il y a eut un click, non ? (quand on clique sur la bombe) ( un peu chiant à implémenter, il faudra faire le texte avant l'animation x) )
+- Et zut ... (quand notre personnage n'est plus que des cendres)
+- J'aurai dû faire plombier... (autre proposition quand on est en cendres)
+
+    A la fin de chaque manche :
+- J'ai été assez rappide pour trouver x pièces.
+- Appuie sur ESPACE pour passer à la manche suivante.
+
